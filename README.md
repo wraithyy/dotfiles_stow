@@ -16,4 +16,5 @@ The dotfiles are managed using [GNU Stow](https://www.gnu.org/software/stow/), w
 Run this one-liner in your terminal to clone and install everything automatically:
 
 ```bash
-sh -c "$(curl -fsSL https://gitlab.com/your-username/dotfiles/-/raw/main/install.sh)"
+sh -c "$(curl -fsSL https://raw.githubusercontent.com/wraithyy/dotfiles_stow/master/install.sh)"
+
